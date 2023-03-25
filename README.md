@@ -29,13 +29,14 @@ generate.py
 
 ```
 
+## 4.模型权重
 
-
-
+百度网盘地址：链接：https://pan.baidu.com/s/1xIIZXVsDTtv0gU5wwhOW3A?pwd=x2kl 
+提取码：x2kl 
+供大家玩玩
 
 ## tips
 1.transformers==4.6.0
-
 
 
 
