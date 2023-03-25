@@ -35,10 +35,16 @@ generate.py
 提取码：x2kl 
 供大家玩玩
 
+
+
 ## tips
 1.transformers==4.6.0
 
 
+
+## 博客介绍地址
+
+https://blog.csdn.net/u012193416/article/details/1260407271
 
 
 
