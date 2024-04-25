@@ -1,5 +1,5 @@
 # ECOMCPM
-整体项目clone自 https://github.com/yangjianxin1/CPM,使用CPM结构，在电商数据上微调的ECOMCPM。
+整体项目clone自 https://github.com/yangjianxin1/CPM,   使用CPM结构，在电商数据上微调的ECOMCPM。
 
 ## 1.训练数据
 [什么值得买](https://post.smzdm.com/talk/)
