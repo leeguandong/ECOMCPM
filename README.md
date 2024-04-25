@@ -20,26 +20,24 @@
 
 ## 2.训练
 在git上提供的26w作文数据上finetune第一部分数据，之后再在第二部分数据上finetune。
+```
 train.py 
-
-## 3.生成
-generate.py
-
 ```
 
+## 3.生成
+```
+generate.py
 ```
 
 ## 4.模型权重
 
-百度网盘地址：链接：https://pan.baidu.com/s/1xIIZXVsDTtv0gU5wwhOW3A?pwd=x2kl 
+百度网盘地址：链接：https://pan.baidu.com/s/1xIIZXVsDTtv0gU5wwhOW3A?pwd=x2kl     
 提取码：x2kl 
 供大家玩玩
 
 
-
 ## tips
 1.transformers==4.6.0
-
 
 
 ## 博客介绍地址
